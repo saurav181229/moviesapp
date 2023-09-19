@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ### live site
-[https://comforting-flan-562765.netlify.app/]
+https://comforting-flan-562765.netlify.app/
